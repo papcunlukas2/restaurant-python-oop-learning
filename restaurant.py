@@ -1,4 +1,4 @@
-from typing import Optional # https://docs.python.org/3/library/typing.html
+from typing import Optional # idk ci to mam takto riesit, ale funguje to: https://docs.python.org/3/library/typing.html
 # PS: zistil som ze PEP 8 odporuca snake_case
 
 
